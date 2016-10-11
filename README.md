@@ -1,6 +1,6 @@
 # eureka-client-subject
 
-To deploy Eureka Client, please click the "Deploy to Bluemix" button below.
+To deploy Eureka Client-Subject, please click the "Deploy to Bluemix" button below.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/snippet-java/eureka-client-subject)
 
