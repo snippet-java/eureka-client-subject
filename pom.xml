@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>subject</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Company Stock Client</description>
 
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
