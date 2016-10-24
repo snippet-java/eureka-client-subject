@@ -1,6 +1,6 @@
 ---
 applications:
-- path: target/subject-0.0.1-SNAPSHOT.jar
+- path: target/subject-0.0.1-SNAPSHOT.war
   name: eureka-client-subject
   host: eureka-client-subject-${random-word}
   memory: 512M
